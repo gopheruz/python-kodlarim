@@ -1,0 +1,15 @@
+import turtle
+nur = turtle.Turtle()
+nur.color("red")
+nur.forward(100)
+nur.right(360/4)
+nur.color("orange")
+nur.forward(100)
+nur.right(360/4)
+nur.color("green")
+nur.forward(100)
+nur.right(360/4)
+nur.color("blue")
+nur.forward(100)
+nur.right(360/4)
+
